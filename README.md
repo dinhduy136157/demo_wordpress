@@ -1,1 +1,1 @@
-demo_wordpress
+demo_wordpress.github.com
